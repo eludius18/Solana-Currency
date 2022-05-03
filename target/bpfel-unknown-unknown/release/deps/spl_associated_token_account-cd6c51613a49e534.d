@@ -1,0 +1,9 @@
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/target/bpfel-unknown-unknown/release/deps/spl_associated_token_account-cd6c51613a49e534.so: /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/lib.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/entrypoint.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/processor.rs
+
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/target/bpfel-unknown-unknown/release/deps/libspl_associated_token_account-cd6c51613a49e534.rlib: /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/lib.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/entrypoint.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/processor.rs
+
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/target/bpfel-unknown-unknown/release/deps/spl_associated_token_account-cd6c51613a49e534.d: /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/lib.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/entrypoint.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/processor.rs
+
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/lib.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/entrypoint.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-associated-token-account-1.0.3/src/processor.rs:

@@ -1,0 +1,10 @@
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/target/bpfel-unknown-unknown/release/deps/anchor_spl-9d5c64b17c4aa98b.rmeta: /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/lib.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/associated_token.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/mint.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/token.rs
+
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/target/bpfel-unknown-unknown/release/deps/libanchor_spl-9d5c64b17c4aa98b.rlib: /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/lib.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/associated_token.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/mint.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/token.rs
+
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/target/bpfel-unknown-unknown/release/deps/anchor_spl-9d5c64b17c4aa98b.d: /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/lib.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/associated_token.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/mint.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/token.rs
+
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/lib.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/associated_token.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/mint.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/token.rs:

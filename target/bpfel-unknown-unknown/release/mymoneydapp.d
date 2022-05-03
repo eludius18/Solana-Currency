@@ -1,0 +1,1 @@
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/target/bpfel-unknown-unknown/release/mymoneydapp.so: /Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/programs/mymoneydapp/src/lib.rs

@@ -1,0 +1,11 @@
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/programs/mymoneydapp/target/rls/debug/deps/serum_dex-b57488c8de4c843f.rmeta: /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/lib.rs /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/error.rs /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/critbit.rs /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/fees.rs /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/instruction.rs /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/matching.rs /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/state.rs
+
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/programs/mymoneydapp/target/rls/debug/deps/serum_dex-b57488c8de4c843f.d: /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/lib.rs /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/error.rs /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/critbit.rs /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/fees.rs /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/instruction.rs /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/matching.rs /Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/state.rs
+
+/Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/lib.rs:
+/Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/error.rs:
+/Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/critbit.rs:
+/Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/fees.rs:
+/Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/instruction.rs:
+/Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/matching.rs:
+/Users/mac-eladio/.cargo/git/checkouts/serum-dex-e015881cf1f3ad4d/1be91f2/dex/src/state.rs:

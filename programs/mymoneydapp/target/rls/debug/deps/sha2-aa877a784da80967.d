@@ -1,0 +1,12 @@
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/programs/mymoneydapp/target/rls/debug/deps/sha2-aa877a784da80967.rmeta: /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/x86.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/x86.rs
+
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/programs/mymoneydapp/target/rls/debug/deps/sha2-aa877a784da80967.d: /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/x86.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/x86.rs
+
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/x86.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/x86.rs:

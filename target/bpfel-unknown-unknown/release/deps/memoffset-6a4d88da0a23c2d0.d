@@ -1,0 +1,10 @@
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/target/bpfel-unknown-unknown/release/deps/memoffset-6a4d88da0a23c2d0.rmeta: /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs
+
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/target/bpfel-unknown-unknown/release/deps/libmemoffset-6a4d88da0a23c2d0.rlib: /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs
+
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/target/bpfel-unknown-unknown/release/deps/memoffset-6a4d88da0a23c2d0.d: /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs
+
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs:

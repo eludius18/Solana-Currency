@@ -1,0 +1,10 @@
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/programs/mymoneydapp/target/rls/debug/deps/without_alloc-2a7f1e9fc462e5ac.rmeta: /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/lib.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/alloc.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/boxed.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/rc.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/uninit.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/fixed_vec.rs
+
+/Users/mac-eladio/Desktop/Crypto/Solana/Solana-Tutorials/Personal-Token/mymoneydapp/programs/mymoneydapp/target/rls/debug/deps/without_alloc-2a7f1e9fc462e5ac.d: /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/lib.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/alloc.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/boxed.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/rc.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/uninit.rs /Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/fixed_vec.rs
+
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/lib.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/alloc.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/boxed.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/rc.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/uninit.rs:
+/Users/mac-eladio/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/fixed_vec.rs:
